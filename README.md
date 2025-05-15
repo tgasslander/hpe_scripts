@@ -2,7 +2,11 @@
 
 Some nifty scripts to handle HPE servers
 
+Disclaimer: No warranties are made about the correctness of these scripts. Use at your own risk.
+
 ## hpe_amsd.sh
+
+> Note: This has only been tested on a single HPE ProLiant DL20 Gen10 server. Use at your own risk.
 
 Install the `agentless management service daemon` on HPE servers.
 Typically this is what you want if you are having trouble lowering the fan speed on HPE servers.
